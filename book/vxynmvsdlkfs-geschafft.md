@@ -10,6 +10,6 @@ lang: de
 
 ::youtube[Geschafft]{#ScDW4nEqNKY}
 
-> Hier noch ein kleiner Song, der genau der richtige für dich als Liebharber:in der Mathematik kurz vor den Sommerferien ist.
+> Hier noch ein kleiner Song, der genau der richtige für dich als Liebharber\:in der Mathematik kurz vor den Sommerferien ist.
 
 ::youtube[title]{#nmtq7MvYLE4}

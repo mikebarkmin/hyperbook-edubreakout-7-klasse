@@ -6,7 +6,7 @@ lang: de
 
 # Level 3
 
-> So langsam muss ich mir was einfallen lassen. Ihr seid zu gut. Jetzt müsst ihr es mit meinem Chatbot aufnehmen. Der wird euch gemeine Fragen stellen. Schafft ihr es bis zum letzten Symbol, dann habt ihr die Lösung.
+> So langsam muss ich mir was einfallen lassen. Ihr seid zu gut. Jetzt müsst ihr es mit meinem Chatbot aufnehmen. Der wird euch gemeine Fragen stellen. Schafft ihr es bis zum letzten Symbol, dann habt ihr die LÖSUNG.
 
 :::audio{id="archi-l3" controls="true"}
 
