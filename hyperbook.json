@@ -8,5 +8,8 @@
   },
   "license": "CC-BY-SA",
   "language": "de",
-  "basePath": "/hyperbook-edubreakout-mathe-7"
+  "basePath": "/hyperbook-edubreakout-mathe-7",
+  "elements": {
+    "bookmarks": false
+  }
 }

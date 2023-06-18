@@ -14,7 +14,7 @@ Löse das [Kreuzworträtsel](https://puzzel.org/de/crossword/play?p=-NYF5BZDTWVi
 
 :::audio{id="archi-l1" controls="true"}
 
-::source{src="/hyperbook-edubreakout-7-klasse/audio/archi-l1.mp3"}
+::source{src="/hyperbook-edubreakout-mathe-7/audio/archi-l1.mp3"}
 
 :::
 
