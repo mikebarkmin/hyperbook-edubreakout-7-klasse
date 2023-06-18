@@ -16,7 +16,7 @@ Ihr betretet einen mysteriösen Raum, der von einem berühmten Mathematiker name
 
 :::audio{id="archi-l0" controls="true"}
 
-::source{src="/hyperbook-edubreakout-mathe-7/audio/archi-l0.mp3"}
+::source{src="/hyperbook-edubreakout-mathe-7/sounds/archi-l0.mp3"}
 
 :::
 

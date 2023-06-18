@@ -10,7 +10,7 @@ lang: de
 
 :::audio{id="archi-l3" controls="true"}
 
-::source{src="/hyperbook-edubreakout-mathe-7/audio/archi-l3.mp3"}
+::source{src="/hyperbook-edubreakout-mathe-7/sounds/archi-l3.mp3"}
 
 :::
 
