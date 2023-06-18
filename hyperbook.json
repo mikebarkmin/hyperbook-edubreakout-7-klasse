@@ -1,12 +1,12 @@
 {
-  "name": "Hyperbook GitHub Pages",
+  "name": "Edubreakout Mathe 7",
   "version": "0.0.1",
-  "description": "This is an example for deploying Hyperbook on GitHub pages",
+  "description": "Dies ist ein Edubreakout zum Ende der 7. Klasse im Fach Mathematik",
   "author": {
     "name": "Mike Barkmin",
     "url": "https://barkmin.eu"
   },
   "license": "CC-BY-SA",
-  "language": "en",
-  "basePath": "/hyperbook-github-pages"
+  "language": "de",
+  "basePath": "/hyperbook-edubreakout-7-klasse"
 }
